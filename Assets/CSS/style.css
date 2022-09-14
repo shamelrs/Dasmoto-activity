@@ -1,0 +1,32 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki
+    text-algn: center;   
+}
+.Brushes {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white
+    background-color: mediumspringgreen;
+}
+
+.Frames{
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white
+    background-color: lightcoral;
+}
+}
+
+.Paint {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white
+    background-color: skyblue;
+}
+}
